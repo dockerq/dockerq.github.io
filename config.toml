@@ -1,0 +1,9 @@
+languageCode = "en-us"
+title = "ContainerQ"
+baseURL = "https://dockerq.github.io"
+canonifyURLs = true
+theme = "hugo-theme-bleak"
+[Params]
+  Author = "Adolphlwq"
+  GitHubUser = "adolphlwq"
+  disqusShortname = "Adolphlwq"
